@@ -1,5 +1,5 @@
 {
-  "Chapters":[
+  "Chapters": [
     {
       "Id": 1,
       "Title": "Chapter 1: Arrival",
@@ -10,6 +10,18 @@
       "Id": 2,
       "Title": "Chapter 2",
       "Min": 13
+    }
+  ],
+  "Characters": [
+    {
+      "Name": "Troy Lakes",
+      "File": "troy.png",
+      "About": "<p>He's been through a lot, and has big trust issues to put it mildy. In fact, his motto is to trust no one, but what happens when he's presented with someone who actually cares?</p>"
+    },
+    {
+      "Name": "Caldwell Wicker",
+      "File": "caldwell.png",
+      "About": "<p>He's a kind, gentle man, but he's also a vampire. He seems haunted by his past, as well as Troy's presence. But, what could Troy, a 21st century man, have to do with a Victorian's past?</p>"
     }
   ]
 }
